@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "491726972337",
+    "firebase_url": "https://smarthomearduino-98e9e.firebaseio.com",
+    "project_id": "smarthomearduino-98e9e",
+    "storage_bucket": "smarthomearduino-98e9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491726972337:android:355168b5cf41cdb98bc990",
+        "android_client_info": {
+          "package_name": "com.example.smarthomearduino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491726972337-36mtb6rp39vkta440q40cg10k6imffen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBseykqVlxtjngIQI2d8mdYtKWLUMrC_wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491726972337-36mtb6rp39vkta440q40cg10k6imffen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
